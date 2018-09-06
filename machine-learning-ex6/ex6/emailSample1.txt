@@ -1,0 +1,8 @@
+BoomSyrup,
+
+We found a potential security vulnerability in a repository for which you have been granted security alert access.
+@BoomSyrup 	BoomSyrup/Garbougie
+Known high severity security vulnerability detected in mixin-deep <1.3.1 defined in package-lock.json.
+package-lock.json update suggested: mixin-deep ~> 1.3.1.
+Always verify the validity and compatibility of suggestions with your codebase.
+
